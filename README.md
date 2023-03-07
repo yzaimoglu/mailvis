@@ -1,4 +1,4 @@
-# mail-visualizer
+# mailvis
 Mining of IMAP mailboxes and visualising the data with Elasticsearch &amp; Kabana.
 
 
