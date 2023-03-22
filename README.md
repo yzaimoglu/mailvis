@@ -1,5 +1,5 @@
 # mailvis
-Mining of IMAP mailboxes and visualising the data with Elasticsearch &amp; Kabana.
+Mining of IMAP mailboxes and visualising the data with Elasticsearch &amp; Kibana.
 
 
 This project is licensed under the GPLv3 License
